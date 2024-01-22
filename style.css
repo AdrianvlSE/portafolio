@@ -22,7 +22,8 @@
     color: white;
     font-family: Tahoma;
     text-decoration: none;
-    text-shadow: 3px 1px 5px gray;;
+    text-shadow: 3px 1px 5px gray;
+    margin-top: -200px;
     padding-left: 0px;
 }
 
@@ -30,6 +31,7 @@
     color: white;
     font-family: Tahoma;
     text-shadow: 3px 1px 5px gray;
+    margin-top: -200px;
     text-decoration: none;
 }
 
@@ -37,6 +39,7 @@
     color: white;
     font-family: Tahoma;
     text-shadow: 3px 1px 5px gray;
+    margin-top: -200px;
     text-decoration: none;
     padding-right: 0px;
 }
