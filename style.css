@@ -1,31 +1,31 @@
-body indexbody{
+body #indexbody{
     background-color: black;
 }
 
-body informationbody{
+body #informationbody{
     background-color: black;
 }
 
-body myaccountbody {
+body #myaccountbody {
     background-color: black;
 }
 
-li headliststart {
+li #headliststart {
     color: blue;
 }
 
-li headlistamyccount {
+li #headlistamyccount {
     color: green;
 }
 
-li headlistinformation{
+li #headlistinformation{
     color: white;
 }
 
-h4 h4notaindex {
+h4 #h4notaindex {
     color: purple;
 }
 
-li paragraph1information {
+li #paragraph1information {
     color: red;
 }
