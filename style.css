@@ -1,0 +1,72 @@
+#indexbody{
+    background-color: rgb(27, 27, 27);
+}
+
+#informationbody{
+    background-color: rgb(27, 27, 27);
+}
+
+#myaccountbody {
+    background-color: rgb(27, 27, 27);
+}
+
+#centername {
+    color: #008FFF;
+    padding-left: 400px;
+    padding-right: 100px;
+    padding-top: 300px;
+    text-shadow: 3px 1px 20px blue;
+}
+
+#headerstarttext {
+    position: relative;
+    color: white;
+    font-family: Tahoma;
+    text-decoration: none;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
+    top: -350px;
+    padding-left: 60px;
+}
+
+#headermyaccounttext {
+    position: relative;
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
+    text-decoration: none;
+    top: -390.25px;
+    padding-left: 160px;
+}
+
+#headerinformationtext{
+    position: relative;
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
+    text-decoration: none;
+    top: -432px;
+    padding-left: 280px;
+    padding-right: 0px;
+}
+
+#h4notaindex {
+    color: white;
+}
+
+#paragraph1information {
+    color: red;
+}
+
+#predessociales {
+    color: red;
+}
