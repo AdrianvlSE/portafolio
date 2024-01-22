@@ -1,0 +1,62 @@
+#indexbody{
+    background-color: rgb(27, 27, 27);
+}
+
+#informationbody{
+    background-color: rgb(27, 27, 27);
+}
+
+#myaccountbody {
+    background-color: rgb(27, 27, 27);
+}
+
+#centername {
+    color: white;
+    text-shadow: 
+    3px 1px 20px blue,
+    3px 1px 20px blue,
+    3px 1px 20px blue;
+}
+
+#headerstarttext {
+    color: white;
+    font-family: Tahoma;
+    text-decoration: none;
+    text-shadow: 
+    3px 1px 20px blue,
+    3px 1px 20px blue,
+    3px 1px 20px blue;
+}
+
+#headermyaccounttext {
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 
+    3px 1px 20px blue,
+    3px 1px 20px blue,
+    3px 1px 20px blue;
+    text-decoration: none;
+}
+
+#headerinformationtext{
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 
+    3px 1px 20px blue,
+    3px 1px 20px blue,
+    3px 1px 20px blue;
+    text-decoration: none;
+}
+
+#h4notaindex {
+    color: white;
+}
+
+#paragraph1information {
+    color: red;
+}
+
+#predessociales {
+    color: red;
+}
+
