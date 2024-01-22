@@ -1,0 +1,58 @@
+/*Celulares medidas*/
+@media screen and (min-width: 10px) and (max-width: 480px) {
+    #centername {
+        font-size: 20px;
+        padding-left: 200px;
+        padding-right: 10px;
+        padding-top: 200px;
+    }
+
+    #headerstarttext {
+        position: relative;
+        top: -769.50px;
+        padding-left: 60px;
+    }
+
+    #headermyaccounttext {
+        position: relative;
+        top: -809.79px;
+        padding-left: 180px;
+    }
+
+    #headerinformationtext{
+        position: relative;
+        top: -851px;
+        padding-left: 325px;
+        padding-right: 0px;
+    }
+}
+
+/*Laptops y Computadoras medidas*/
+
+@media screen and (min-width: 800px) and (max-width: 2000px) {
+    #centername {
+        font-size: 250px;
+        padding-left: 800px;
+        padding-right: 100px;
+        padding-top: 120px;
+    }
+
+    #headerstarttext {
+        position: relative;
+        top: -769.50px;
+        padding-left: 60px;
+    }
+
+    #headermyaccounttext {
+        position: relative;
+        top: -809.79px;
+        padding-left: 180px;
+    }
+
+    #headerinformationtext{
+        position: relative;
+        top: -851px;
+        padding-left: 325px;
+        padding-right: 0px;
+    }
+}
