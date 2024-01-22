@@ -1,3 +1,23 @@
 body index-body{
     background-color: black;
 }
+
+li headliststart {
+    color: blue;
+}
+
+li headlistamyccount {
+    color: green;
+}
+
+li headlistinformation{
+    color: white;
+}
+
+h4 h4notaindex {
+    color: purple;
+}
+
+li paragraph1information {
+    color: red;
+}
