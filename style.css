@@ -1,29 +1,44 @@
 #indexbody{
-    background-color: black;
+    background-color: rgb(27, 27, 27);
 }
 
 #informationbody{
-    background-color: black;
+    background-color: rgb(27, 27, 27);
 }
 
 #myaccountbody {
-    background-color: black;
+    background-color: rgb(27, 27, 27);
 }
 
-#h1header {
+#centername {
+    color: #008FFF;
+    padding-left: 400px;
+    padding-right: 100px;
+    padding-top: 300px;
+    text-shadow: 3px 1px 20px blue;
+}
+
+#headerstarttext {
     color: white;
+    font-family: Tahoma;
+    text-decoration: none;
+    text-shadow: 3px 1px 5px gray;;
+    padding-left: 0px;
 }
 
-#headliststart {
-    color: blue;
+#headermyaccounttext {
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 3px 1px 5px gray;
+    text-decoration: none;
 }
 
-#headlistamyccount {
-    color: blue;
-}
-
-#headlistinformation{
-    color: blue;
+#headerinformationtext{
+    color: white;
+    font-family: Tahoma;
+    text-shadow: 3px 1px 5px gray;
+    text-decoration: none;
+    padding-right: 0px;
 }
 
 #h4notaindex {
