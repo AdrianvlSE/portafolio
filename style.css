@@ -1,4 +1,12 @@
-body index-body{
+body indexbody{
+    background-color: black;
+}
+
+body informationbody{
+    background-color: black;
+}
+
+body myaccountbody {
     background-color: black;
 }
 
