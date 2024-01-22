@@ -19,25 +19,42 @@
 }
 
 #headerstarttext {
+    position: relative;
     color: white;
     font-family: Tahoma;
     text-decoration: none;
-    text-shadow: 3px 1px 5px gray;;
-    padding-left: 0px;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
+    top: -350px;
+    padding-left: 60px;
 }
 
 #headermyaccounttext {
+    position: relative;
     color: white;
     font-family: Tahoma;
-    text-shadow: 3px 1px 5px gray;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
     text-decoration: none;
+    top: -390.25px;
+    padding-left: 160px;
 }
 
 #headerinformationtext{
+    position: relative;
     color: white;
     font-family: Tahoma;
-    text-shadow: 3px 1px 5px gray;
+    text-shadow: 
+    0px 1px 6px gray,
+    2px 1px 6px gray,
+    2px 1px 6px gray;
     text-decoration: none;
+    top: -432px;
+    padding-left: 280px;
     padding-right: 0px;
 }
 
