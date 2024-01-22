@@ -69,8 +69,27 @@
 
     #headerinformationtext{
         position: relative;
-        top: -851px;
-        padding-left: 325px;
+        top: -853px;
+        padding-left: 350px;
+        padding-right: 0px;
+    }
+
+    #headerstarttext2 {
+        position: relative;
+        top: 34px;
+        padding-left: 60px;
+    }
+
+    #headermyaccounttext2 {
+        position: relative;
+        top: -9px;
+        padding-left: 180px;
+    }
+
+    #headerinformationtext2 {
+        position: relative;
+        top: -50px;
+        padding-left: 400px;
         padding-right: 0px;
     }
 }
