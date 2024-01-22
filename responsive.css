@@ -1,5 +1,10 @@
 /*Celulares medidas*/
 @media screen and (min-width: 10px) and (max-width: 480px) {
+
+    #indexbody{
+        background-color: rgb(255, 0, 0);
+    }
+
     #centername {
         font-size: 20px;
         padding-left: 200px;
@@ -30,6 +35,19 @@
 /*Laptops y Computadoras medidas*/
 
 @media screen and (min-width: 800px) and (max-width: 2000px) {
+    
+    #indexbody{
+        background-color: rgb(27, 27, 27);
+    }
+
+    #informationbody{
+        background-color: rgb(27, 27, 27);
+    }
+    
+    #myaccountbody {
+        background-color: rgb(27, 27, 27);
+    }
+
     #centername {
         font-size: 250px;
         padding-left: 800px;
